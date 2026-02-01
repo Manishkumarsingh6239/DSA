@@ -1,0 +1,19 @@
+Day 1 – Arrays + Hashing (confidence builders)
+
+1 – Two Sum
+217 – Contains Duplicate
+242 – Valid Anagram
+53 – Maximum Subarray
+
+Focus:
+HashMap usage
+
+Prefix idea (Kadane intuition) => The CORE intuition (one line)
+At every index, decide:
+Start a new subarray here
+OR extend the previous subarray
+
+
+
+New Info:
+#Kadane Intuition
