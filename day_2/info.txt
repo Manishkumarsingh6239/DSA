@@ -1,0 +1,13 @@
+Day 2 – Two Pointers
+
+125 – Valid Palindrome
+167 – Two Sum II (sorted array)
+26 – Remove Duplicates from Sorted Array
+283 – Move Zeroes
+
+Focus:
+Left–right pointer movement
+In-place thinking
+
+New Info:
+whenever you see sorted things remember two pointer method used mostly in this case
