@@ -1,0 +1,10 @@
+Day 4 – Stack
+
+20 – Valid Parentheses
+155 – Min Stack
+496 – Next Greater Element I
+
+Focus:
+Stack = previous/next element
+Monotonic thinking (intro)
+
