@@ -1,0 +1,9 @@
+Day 5 – Linked List
+
+206 – Reverse Linked List
+141 – Linked List Cycle
+21 – Merge Two Sorted Lists
+
+Focus:
+Pointer manipulation
+Slow–fast pointer
