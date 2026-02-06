@@ -1,0 +1,9 @@
+Day 6 – Binary Search
+
+704 – Binary Search
+35 – Search Insert Position
+33 – Search in Rotated Sorted Array
+
+Focus:
+Search space reduction
+Mid logic correctness
