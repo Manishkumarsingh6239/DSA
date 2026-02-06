@@ -7,3 +7,5 @@ Day 6 – Binary Search
 Focus:
 Search space reduction
 Mid logic correctness
+
+imp note if it said search in sorted there must be a method to solve it with Binary search
