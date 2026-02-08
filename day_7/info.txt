@@ -1,0 +1,9 @@
+Day 7 – Trees (very light intro)
+
+104 – Maximum Depth of Binary Tree
+226 – Invert Binary Tree
+94 – Binary Tree Inorder Traversal
+
+Focus:
+Recursion flow
+DFS basics
