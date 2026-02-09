@@ -1,0 +1,10 @@
+Day 8 – Hashing (medium-leaning)
+
+49 – Group Anagrams
+347 – Top K Frequent Elements
+560 – Subarray Sum Equals K
+
+Focus:
+Frequency maps
+Hash + array thinking
+Prefix sum + map (important!)
