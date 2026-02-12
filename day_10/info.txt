@@ -1,0 +1,7 @@
+Day 10 – Two Pointers (medium)
+15 – 3Sum
+11 – Container With Most Water
+
+Focus:
+Sorting + pointers
+Why pointer moves matter
