@@ -1,0 +1,9 @@
+Day 12 – Linked List (medium)
+
+19 – Remove Nth Node From End
+142 – Linked List Cycle II
+234 – Palindrome Linked List
+
+Focus:
+Fast–slow pointers
+Reversal tricks
