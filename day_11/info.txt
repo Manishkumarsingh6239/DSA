@@ -1,0 +1,10 @@
+Day 11 – Stack (monotonic intro)
+
+739 – Daily Temperatures
+84 – Largest Rectangle in Histogram
+
+
+Focus:
+
+Monotonic stack
+Next greater / smaller logic
