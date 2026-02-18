@@ -1,0 +1,8 @@
+Day 13 – Binary Search (medium)
+
+153 – Find Minimum in Rotated Sorted Array
+34 – Find First and Last Position of Element
+
+Focus:
+Binary search on answer
+Boundary handling
