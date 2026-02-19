@@ -1,0 +1,9 @@
+Day 14 – Trees (DFS / BFS)
+
+102 – Binary Tree Level Order Traversal
+98 – Validate Binary Search Tree
+230 – Kth Smallest Element in a BST
+
+Focus:
+BFS vs DFS
+BST properties
