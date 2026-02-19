@@ -1,0 +1,114 @@
+✅ WEEK 3 – STRUCTURE BUILDING PHASE
+🔵 Day 15 – Binary Search on Answer
+
+875 – Koko Eating Bananas
+
+1011 – Capacity To Ship Packages Within D Days
+
+410 – Split Array Largest Sum (optional if energy)
+
+Focus:
+
+Binary search on answer space
+
+Feasibility checking
+
+Thinking in monotonic functions
+
+🟢 Day 16 – Graphs (BFS / DFS Basics)
+
+200 – Number of Islands
+
+733 – Flood Fill
+
+994 – Rotting Oranges
+
+Focus:
+
+Grid traversal
+
+Visited array
+
+BFS vs DFS difference
+
+🟣 Day 17 – Graph Traversal (Advanced Thinking)
+
+207 – Course Schedule
+
+210 – Course Schedule II
+
+785 – Is Graph Bipartite?
+
+Focus:
+
+Topological sort
+
+Cycle detection
+
+Coloring
+
+🟡 Day 18 – Dynamic Programming (Intro)
+
+70 – Climbing Stairs
+
+198 – House Robber
+
+746 – Min Cost Climbing Stairs
+
+Focus:
+
+Recurrence relation
+
+DP array vs variables
+
+Top-down vs bottom-up
+
+🟠 Day 19 – 2D DP
+
+62 – Unique Paths
+
+64 – Minimum Path Sum
+
+1143 – Longest Common Subsequence (important)
+
+Focus:
+
+DP grid
+
+State transition
+
+Overlapping subproblems
+
+🔴 Day 20 – Backtracking
+
+46 – Permutations
+
+78 – Subsets
+
+39 – Combination Sum
+
+Focus:
+
+Recursive tree thinking
+
+Choice → explore → backtrack
+
+⚫ Day 21 – Mixed Medium Revision
+
+Re-solve WITHOUT looking:
+
+15 – 3Sum
+
+76 – Minimum Window
+
+153 – Find Min in Rotated
+
+200 – Number of Islands
+
+Goal:
+
+Test memory retention
+
+Reduce hesitation
+
+Improve speed
