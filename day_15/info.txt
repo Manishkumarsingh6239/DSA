@@ -1,0 +1,10 @@
+Day 15 – Binary Search on Answer
+
+875 – Koko Eating Bananas
+1011 – Capacity To Ship Packages Within D Days
+410 – Split Array Largest Sum (optional if energy)
+
+Focus:
+Binary search on answer space
+Feasibility checking
+Thinking in monotonic functions
