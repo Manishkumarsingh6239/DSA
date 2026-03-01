@@ -1,0 +1,9 @@
+Day 18 – Dynamic Programming (Intro)
+
+70 – Climbing Stairs
+198 – House Robber
+746 – Min Cost Climbing Stairs
+
+Focus:
+Recurrence relation
+DP array vs variables
