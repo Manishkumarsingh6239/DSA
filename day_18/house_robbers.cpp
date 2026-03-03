@@ -4,7 +4,7 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n=nums.size();
-        int dp[n];
+        int dp[n]; //dpq[i] represents the maximum amount of money that can be robbed from the first i houses
         dp[0]=nums[0];
         if(n==1) return dp[0];
         dp[1]=max(nums[0],nums[1]);
