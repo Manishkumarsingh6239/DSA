@@ -1,0 +1,10 @@
+🟠 Day 19 – 2D DP
+
+62 – Unique Paths
+64 – Minimum Path Sum
+1143 – Longest Common Subsequence (important)
+
+Focus:
+DP grid
+State transition
+Overlapping subproblems
