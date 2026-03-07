@@ -35,7 +35,7 @@ public:
         for(int num=0;num<(pow(2,n));num++){
             vector<int> subset;
             for(int i=0;i<n;i++){
-                if(num&(1<<i)){
+                if(num&(1<<i)){   //just moving 1 left at a time so that it gives 1 when did AND BITWISE to check which index to choose 1->choose 0->not choose
                     subset.push_back(nums[i]);
                 }
             }
