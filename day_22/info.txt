@@ -1,0 +1,10 @@
+Day 22 — Advanced Sliding Window
+
+209 – Minimum Size Subarray Sum
+904 – Fruit Into Baskets
+1004 – Max Consecutive Ones III
+
+Focus:
+Variable window
+When to shrink
+Maintaining window condition
