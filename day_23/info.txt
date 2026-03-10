@@ -1,0 +1,9 @@
+Day 23 — Greedy Algorithms
+
+55 – Jump Game
+45 – Jump Game II
+134 – Gas Station
+
+Focus:
+Local optimal → global optimal
+Greedy proof intuition
