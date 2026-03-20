@@ -10,7 +10,7 @@ public:
             }
         }
         int n = ns.size();
-        cout<<ns<<endl<<n<<endl;
+        // cout<<ns<<endl<<n<<endl;
         if(ns.size()==0) return true;
         
         for(int i=0; i<=n/2; i++){
