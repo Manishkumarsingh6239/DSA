@@ -36,5 +36,3 @@ int main()
     return 0;
 }
 
-
-i/p an array of any 3<=size<=1000
