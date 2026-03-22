@@ -1,0 +1,9 @@
+Day 26 — Dynamic Programming (Medium)
+
+322 – Coin Change
+300 – Longest Increasing Subsequence
+518 – Coin Change II
+
+Focus:
+DP state design
+Transition equations
